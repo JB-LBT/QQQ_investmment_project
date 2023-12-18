@@ -1,0 +1,5 @@
+best_model_2lstm.pt comes from the notebook 'QQQ_prediction'
+Works with the whole input data, stabdard scaled between -1 and 1
+
+small_model_1.pt comes from the notebook 'QQQ_prediction_2' 
+Works with reduced input: open, 3-year and VIX, standard scaled between -1 and 1
